@@ -19,7 +19,7 @@ Press Windows Key + R
 
 Then type "cmd"
 
-Open File Explorer find where you downloaded the file
+Open File Explorer and find where you downloaded the file and click and copy
 
 Go back to the cmd and type "cd" 
 
