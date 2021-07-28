@@ -13,28 +13,15 @@ Node JS: https://nodejs.org/en/download/
 
 Download Avaliabe for Windows, Mac and Linux
 
-# How To Run On Windows
+# How To Run
 
-Press Windows Key + R
+Open your command prompt
 
-Then type "cmd"
+Clone This Repo
 
-Open File Explorer and find where you downloaded the file and click and copy
+In Your Command Prompt Type `node "encoder and decoder.js"`
 
-Go back to the cmd and type "cd" 
-
-Do a right click and press enter
-
-Type "npm init -y"
-
-Then type "npm i"
-
-Then finnaly type "node ."
-
-# How To Run On Linux
-
-Unknown
-
-# How To Run On Mac
-
-Unknown
+And When You Want To Exit The Program Press:
+- Windows & Linux: CTRL + C
+- Mac: CMD + C
+  
